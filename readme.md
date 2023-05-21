@@ -1,0 +1,1 @@
+I practise my python coding using Drone Odyssey 2023 coding tasks. I am using Tello EDU drone and djitellypy library. I am sharing my ideas on how to solve the challenges.

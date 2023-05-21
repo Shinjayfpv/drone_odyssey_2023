@@ -1,0 +1,1 @@
+I am using mission pad to position the drone before the obstacles. My code is to fly over one obstacle, through the other obstacle and under the last obstacle.
